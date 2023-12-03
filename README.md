@@ -1,0 +1,1 @@
+This text to speech using javascript is a desktop web application. Basically, tutorials and guides for creating code are included in the project. Also, the project provides code creation tutorials and guides. The project is also open source, where users can download and edit zips as required.
